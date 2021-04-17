@@ -1,7 +1,7 @@
 {
   "name": "dynamic-template",
   "version": "1.0.0",
-  "description": "a dynamic template to decrease setup time",
+  "description": "enter a description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
